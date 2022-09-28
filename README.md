@@ -34,7 +34,7 @@
 
 - [Xception(2017)](https://deep-learning-study.tistory.com/529), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/Xception(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/548)]
 
-- [MobileNetV1(2017)](https://deep-learning-study.tistory.com/532), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/Xception(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/549)]
+- [MobileNetV1(2017)](https://deep-learning-study.tistory.com/532), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/AI_Paper_Review/blob/master/Classification/MobileNetV1(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/549)]
 
 - [ResNext(2017)](https://deep-learning-study.tistory.com/533), PyTorch Code [[Google Colab](https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch/blob/master/Classification/ResNext(2017).ipynb) / [Blog Posting](https://deep-learning-study.tistory.com/558)]
 
